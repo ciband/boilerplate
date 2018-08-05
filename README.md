@@ -6,9 +6,9 @@
 
 > __DESCRIPTION__
 
-[![Build Status](https://img.shields.io/travis/ArkEcosystem/__NAME__/master.svg?style=flat-square)](https://travis-ci.org/ArkEcosystem/__NAME__)
-[![Latest Version](https://img.shields.io/github/release/ArkEcosystem/__NAME__.svg?style=flat-square)](https://github.com/ArkEcosystem/__NAME__/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://badgen.now.sh/travis/ArkEcosystem/__NAME__/master.svg?style=flat-square)](https://badgen.now.sh/travis/ArkEcosystem/__NAME__)
+[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/__NAME__.svg?style=flat-square)](https://github.com/ArkEcosystem/__NAME__/releases)
+[![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
